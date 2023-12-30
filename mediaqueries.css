@@ -58,6 +58,8 @@
     }
     article {
       font-size: 1rem;
+      align-content: space-between;
+
     }
     footer nav {
       height: fit-content;
